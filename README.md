@@ -1,7 +1,7 @@
 # aa_sex_gender_dem
 This repo contains all the code necessary (folder 01_R) to replicate data construction and analyses in the paper: Sex/gender differences in lifetime dementia risk among  Asian American ethnic groups and non-Latino White older adults in California
 
-## Main scripts include: 
+## Scripts description
 
 * Scripts 0: specifying paths to data folders. consolidate datasets from various sources.
 * Script 1 constructs the time-to-event dataset in a wide format for analysis.
